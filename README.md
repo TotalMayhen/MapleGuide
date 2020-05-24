@@ -1,6 +1,7 @@
 # 메이플 리부트섭 가이드
 
 * ### 리부트 서버 공략 모음집
+    * 리부트 서버 갤러리에 있는 공략 모음집입니다.
 
 * ### 리부트 서버 개요
     * [리부트 서버와 본서버의 차이점 정리](https://gall.dcinside.com/mgallery/board/view/?id=mmorpg&no=1174)
@@ -125,6 +126,7 @@
 
     * 스타포스 관련 정보
         * [스타포스 기댓값](https://gall.dcinside.com/mgallery/board/view/?id=angelicbuster&no=2731&_rk=BQK&search_head=10&page=1)
+        * [스타포스 파괴확률 관련 정보](https://gall.dcinside.com/mgallery/board/view/?id=angelicbuster&no=1796&_rk=tDL&search_head=10&page=1)
 
     * 옵션 관련 정보
         * [무기 추옵표](https://gall.dcinside.com/mgallery/board/view/?id=angelicbuster&no=85&_rk=CFQ&search_head=10&page=2)
@@ -211,3 +213,12 @@
         * [시드 1~48층 공략 모음집](https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&no=254725)
 
     * [시드 시뮬레이터](https://blog.naver.com/dipper1002/221319586221)
+
+* 그 외 잡다한 정보
+    * 길드 관련 정보
+        * [보스별 기여도 지급량 정리](https://gall.dcinside.com/mgallery/board/view/?id=angelicbuster&no=708&_rk=EYz&search_head=10&page=2)
+        * [길드마크 고화질 보존법](https://gall.dcinside.com/mgallery/board/view/?id=mmorpg&no=9848&_rk=EYz&search_head=10&page=2)
+        * [샤레니안의 지하수로 관련](https://gall.dcinside.com/mgallery/board/view/?id=angelicbuster&no=702&_rk=OmR&search_head=10&page=2)
+
+    * 무릉 관련 정보
+        * [무릉 층수 올리는 팁](https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&no=657267&_rk=96k&search_head=10&page=1)
