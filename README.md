@@ -214,7 +214,7 @@
 
     * [시드 시뮬레이터](https://blog.naver.com/dipper1002/221319586221)
 
-* 그 외 잡다한 정보
+* ### 그 외 잡다한 정보
     * 길드 관련 정보
         * [보스별 기여도 지급량 정리](https://gall.dcinside.com/mgallery/board/view/?id=angelicbuster&no=708&_rk=EYz&search_head=10&page=2)
         * [길드마크 고화질 보존법](https://gall.dcinside.com/mgallery/board/view/?id=mmorpg&no=9848&_rk=EYz&search_head=10&page=2)
